@@ -1,0 +1,17 @@
+F:\Solution\Wbf.VOL\Wbf.VOL.System\bin\Debug\net6.0\Wbf.VOL.System.deps.json
+F:\Solution\Wbf.VOL\Wbf.VOL.System\bin\Debug\net6.0\Wbf.VOL.System.dll
+F:\Solution\Wbf.VOL\Wbf.VOL.System\bin\Debug\net6.0\Wbf.VOL.System.pdb
+F:\Solution\Wbf.VOL\Wbf.VOL.System\bin\Debug\net6.0\Wbf.VOL.Core.dll
+F:\Solution\Wbf.VOL\Wbf.VOL.System\bin\Debug\net6.0\Wbf.VOL.Entity.dll
+F:\Solution\Wbf.VOL\Wbf.VOL.System\bin\Debug\net6.0\Wbf.VOL.Core.pdb
+F:\Solution\Wbf.VOL\Wbf.VOL.System\bin\Debug\net6.0\Wbf.VOL.Entity.pdb
+F:\Solution\Wbf.VOL\Wbf.VOL.System\obj\Debug\net6.0\Wbf.VOL.System.csproj.AssemblyReference.cache
+F:\Solution\Wbf.VOL\Wbf.VOL.System\obj\Debug\net6.0\Wbf.VOL.System.GeneratedMSBuildEditorConfig.editorconfig
+F:\Solution\Wbf.VOL\Wbf.VOL.System\obj\Debug\net6.0\Wbf.VOL.System.AssemblyInfoInputs.cache
+F:\Solution\Wbf.VOL\Wbf.VOL.System\obj\Debug\net6.0\Wbf.VOL.System.AssemblyInfo.cs
+F:\Solution\Wbf.VOL\Wbf.VOL.System\obj\Debug\net6.0\Wbf.VOL.System.csproj.CoreCompileInputs.cache
+F:\Solution\Wbf.VOL\Wbf.VOL.System\obj\Debug\net6.0\Wbf.VOL.System.csproj.CopyComplete
+F:\Solution\Wbf.VOL\Wbf.VOL.System\obj\Debug\net6.0\Wbf.VOL.System.dll
+F:\Solution\Wbf.VOL\Wbf.VOL.System\obj\Debug\net6.0\refint\Wbf.VOL.System.dll
+F:\Solution\Wbf.VOL\Wbf.VOL.System\obj\Debug\net6.0\Wbf.VOL.System.pdb
+F:\Solution\Wbf.VOL\Wbf.VOL.System\obj\Debug\net6.0\ref\Wbf.VOL.System.dll

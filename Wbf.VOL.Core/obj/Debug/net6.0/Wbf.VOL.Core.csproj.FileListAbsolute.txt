@@ -1,0 +1,15 @@
+F:\Solution\Wbf.VOL\Wbf.VOL.Core\obj\Debug\net6.0\Wbf.VOL.Core.csproj.AssemblyReference.cache
+F:\Solution\Wbf.VOL\Wbf.VOL.Core\obj\Debug\net6.0\Wbf.VOL.Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\Solution\Wbf.VOL\Wbf.VOL.Core\obj\Debug\net6.0\Wbf.VOL.Core.AssemblyInfoInputs.cache
+F:\Solution\Wbf.VOL\Wbf.VOL.Core\obj\Debug\net6.0\Wbf.VOL.Core.AssemblyInfo.cs
+F:\Solution\Wbf.VOL\Wbf.VOL.Core\obj\Debug\net6.0\Wbf.VOL.Core.csproj.CoreCompileInputs.cache
+F:\Solution\Wbf.VOL\Wbf.VOL.Core\bin\Debug\net6.0\Wbf.VOL.Core.deps.json
+F:\Solution\Wbf.VOL\Wbf.VOL.Core\bin\Debug\net6.0\Wbf.VOL.Core.dll
+F:\Solution\Wbf.VOL\Wbf.VOL.Core\bin\Debug\net6.0\Wbf.VOL.Core.pdb
+F:\Solution\Wbf.VOL\Wbf.VOL.Core\obj\Debug\net6.0\Wbf.VOL.Core.dll
+F:\Solution\Wbf.VOL\Wbf.VOL.Core\obj\Debug\net6.0\refint\Wbf.VOL.Core.dll
+F:\Solution\Wbf.VOL\Wbf.VOL.Core\obj\Debug\net6.0\Wbf.VOL.Core.pdb
+F:\Solution\Wbf.VOL\Wbf.VOL.Core\obj\Debug\net6.0\ref\Wbf.VOL.Core.dll
+F:\Solution\Wbf.VOL\Wbf.VOL.Core\bin\Debug\net6.0\Wbf.VOL.Entity.dll
+F:\Solution\Wbf.VOL\Wbf.VOL.Core\bin\Debug\net6.0\Wbf.VOL.Entity.pdb
+F:\Solution\Wbf.VOL\Wbf.VOL.Core\obj\Debug\net6.0\Wbf.VOL.Core.csproj.CopyComplete
